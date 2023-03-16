@@ -1,0 +1,29 @@
+.App{
+    margin:auto;
+   width: 80%;
+   height: auto;
+   margin-top: 5%;
+  
+ }
+ .header{
+   background-color:rgb(184, 197, 193);
+   
+ }
+ .dropdown{
+   background-color:rgb(125, 177, 219); 
+   
+ }
+ .select{
+   max-height: 300px;
+   overflow-y: scroll;
+ }
+ .cardImage{
+   width: 45px;
+ }
+ .cardFooter{
+   height: 60px;
+ }
+ .footer{
+   color: black;
+ }
+ 
